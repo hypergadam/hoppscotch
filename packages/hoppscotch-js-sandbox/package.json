@@ -76,8 +76,8 @@
     "io-ts": "2.2.22",
     "prettier": "3.8.1",
     "typescript": "5.9.3",
-    "vite": "7.3.1",
-    "vitest": "4.0.18"
+    "vite": "6.4.5",
+    "vitest": "5.1.0"
   },
   "peerDependencies": {
     "isolated-vm": "6.0.2"
